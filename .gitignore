@@ -31,3 +31,7 @@
 # Debug files
 *.dSYM/
 *.su
+
+
+# qt creator settings
+CMakeLists.txt.user
